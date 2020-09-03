@@ -1,4 +1,4 @@
-## Hi, I'm Daniel França, a Developer from Brazil. [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-morato-673576108/)](https://www.linkedin.com/in/daniel-silva-fran%C3%A7a/) <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='60px"'> 
+## Hi, I'm Daniel França, a Developer from Brazil. [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silva-frança/)](https://www.linkedin.com/in/daniel-silva-frança/) <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='60px"'> 
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning software architecture and clean code;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm studying electronic engineering;
-- 📫 How to reach me: [my linkedin](https://www.linkedin.com/in/daniel-silva-fran%C3%A7a/);
+- 📫 How to reach me: [my linkedin](https://www.linkedin.com/in/daniel-silva-frança/);
 
 </br>
 </br>
