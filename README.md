@@ -6,7 +6,6 @@
 <!-- Any image aligned to the right. Beware the width -->
 <!--  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
-- 👨🏽‍💻 I worked at CITI [CITi](https://citi.org.br/);
 - 🌱 I’m currently learning software architecture and clean code;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm studying electronic engineering;
