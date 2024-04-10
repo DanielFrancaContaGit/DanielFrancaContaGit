@@ -1,5 +1,8 @@
 ## Hi, I'm Daniel França, a Developer from Brazil. [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silva-frança/)](https://www.linkedin.com/in/daniel-silva-franca/) <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='60px"'> 
 
+![Daniel França GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielFrancaContaGit&show_icons=true&t)
+
+
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
